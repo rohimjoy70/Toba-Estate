@@ -139,7 +139,7 @@ export default function CreateListing() {
    };
    return (
       <main className="p-3 max-w-4xl mx-auto">
-         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692846365396217" crossorigin="anonymous"></script>
+         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3302194225999375" crossorigin="anonymous"></script>
          <h1 className="text-3xl font-semibold text-center my-7">Create a Listing</h1>
          <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-4">
             <div className="flex flex-col gap-4 flex-1">
